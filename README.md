@@ -1,6 +1,6 @@
 # Wordpress REST API and BackboneJS
 
-This project implements the BackboneJS library to exchange data with the REST API. The CRUD operations are implemented to create, read, update and delte
+This project implements the BackboneJS library to exchange data with the Wordpress REST API. The CRUD operations are implemented to create, read, update and delete
 a post into the local Wordpress site.
 
 ## Requirements
